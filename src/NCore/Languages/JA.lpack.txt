@@ -125,8 +125,9 @@ Toolbox.ArcticFoxConfiguration.InfoLines.OutputVolts=出力ボルト
 Toolbox.ArcticFoxConfiguration.InfoLines.Resistance=抵抗値
 Toolbox.ArcticFoxConfiguration.InfoLines.Volts=ボルト
 Toolbox.ArcticFoxConfiguration.Message.ConnectDevice=デバイスを接続してください。\n\nArcticFox\n[{0}]\n\n以降のファームウエアを使用してください。
-Toolbox.ArcticFoxConfiguration.Message.DownloadingSettings=定をダウンロードしています...
-Toolbox.ArcticFoxConfiguration.Message.LogoRemoved=ロゴ除去完了。Toolbox.ArcticFoxConfiguration.Message.LogoUpdated=ロゴ反映完了。
+Toolbox.ArcticFoxConfiguration.Message.DownloadingSettings=設定をダウンロードしています...
+Toolbox.ArcticFoxConfiguration.Message.LogoRemoved=ロゴ除去完了。
+Toolbox.ArcticFoxConfiguration.Message.LogoUpdated=ロゴ反映完了。
 Toolbox.ArcticFoxConfiguration.Message.NoCompatibleUSBDevice=互換性のあるUSBデバイスが接続されていません。\n\n続けるにはデバイスを接続してください。\n\nすでに接続されている場合は、プラグを抜き差ししてください。ケーブルが緩んでいる可能性があります。
 Toolbox.ArcticFoxConfiguration.Message.OutdatedToolbox=旧バージョンのNFE Toolboxです。\n\n最新バージョンをダウンロードしてください。
 Toolbox.ArcticFoxConfiguration.Message.UnableToReadData=デバイス設定のダウンロードを失敗しました。\n\nデバイスを再接続してください。
@@ -301,7 +302,8 @@ Toolbox.FirmwareUpdater.UpdateButton=ファイルアップデート
 Toolbox.FirmwareUpdater.WriteDataflashButton=書き込み
 Toolbox.FirmwareUpdater.Messages.DataflashReadAndSave=データフラッシュ読み込み、保存完了
 Toolbox.FirmwareUpdater.Messages.DataflashReseted=データフラッシュリセット完了
-Toolbox.FirmwareUpdater.Messages.DataflashWritten=データフラッシュ書き込み完了Toolbox.FirmwareUpdater.Messages.DeviceIsReady=デバイス準備中
+Toolbox.FirmwareUpdater.Messages.DataflashWritten=データフラッシュ書き込み完了
+Toolbox.FirmwareUpdater.Messages.DeviceIsReady=デバイス準備中
 Toolbox.FirmwareUpdater.Messages.FirmwareSuccessfullyUpdated=ファームウェアアップデート完了
 Toolbox.FirmwareUpdater.Messages.FirmwareUpdateFailed=ファームウェアアップデート失敗！
 Toolbox.FirmwareUpdater.Messages.FirmwareUpdateFatalError=ファームウェアアップデート中に例外が発生しました。
